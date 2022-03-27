@@ -1,0 +1,11 @@
+ipykernel
+nltk
+plotly
+numpy
+pandas
+pyLDAvis
+gensim
+scikit-learn
+tqdm
+matplotlib
+wordcloud
