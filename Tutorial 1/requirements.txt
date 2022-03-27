@@ -1,0 +1,10 @@
+pip
+Numpy
+Pandas
+Scikit-Learn
+NLTK
+Matplotlib
+wordcloud
+Sastrawi
+wheel
+# python-crfsuite
