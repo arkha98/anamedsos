@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# env per tutorial
+./Tutorial\ 1/env/
+./Tutorial\ 2/env/
+./Tutorial\ 3/env/
+
+# tutorial 3 auth
+./Tutorial\ 3/auth/
